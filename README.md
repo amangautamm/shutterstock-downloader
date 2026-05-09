@@ -1,4 +1,4 @@
-# 🚀 Premium Stock Asset Downloader Bot
+# 🚀 Premium Shuterstock Asset Downloader Bot
 
 > A professional Telegram bot built with **Python** to extract and download premium stock assets — including Photos, Vectors, PSDs, and 3D Models — with a real-time progress tracking UI.
 
