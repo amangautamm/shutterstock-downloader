@@ -26,6 +26,16 @@ A professional Telegram bot built with **Python** to extract and download premiu
 
 ---
 
+# --- CONFIGURATION ---
+# Replace the placeholders with your actual credentials
+
+TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'            # Get this from @BotFather on Telegram
+MONGO_URI = "YOUR_MONGODB_CONNECTION_URI"    # Your MongoDB Atlas Connection String
+VALID_LICENSE_KEY = "PREMIUM-2026-PRO"       # Set your custom key for premium activation
+
+---
+
+
 ## 🚀 Installation & Setup
 
 1. **Clone the Repo:**
@@ -33,11 +43,4 @@ A professional Telegram bot built with **Python** to extract and download premiu
    git clone [https://github.com/yourusername/stock-downloader-bot.git](https://github.com/yourusername/stock-downloader-bot.git)
    cd stock-downloader-bot
    python main.py
----
 
-# --- CONFIGURATION ---
-# Replace the placeholders with your actual credentials
-
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'            # Get this from @BotFather on Telegram
-MONGO_URI = "YOUR_MONGODB_CONNECTION_URI"    # Your MongoDB Atlas Connection String
-VALID_LICENSE_KEY = "PREMIUM-2026-PRO"       # Set your custom key for premium activation
