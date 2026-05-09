@@ -19,8 +19,8 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
 # --- CONFIGURATION ---
-TOKEN = '7681481930:AAH4UGyhUgrDCiQrqSC2ujHQxwZcc6yrWAQ'
-MONGO_URI = "mongodb+srv://bot:bot4321@cluster0.hiuk6lh.mongodb.net/?appName=Cluster0"
+TOKEN = ''
+MONGO_URI = ""
 
 executor = ThreadPoolExecutor(max_workers=20)
 
